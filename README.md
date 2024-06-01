@@ -1,2 +1,1 @@
-# transformer
- transformer_scratch
+# transformer from scratch
